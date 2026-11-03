@@ -8,6 +8,14 @@ Currently exploring the space between **design, code, and AI**.
 
 ---
 
+### ✦ About me
+
+I'm a product designer growing into design engineering. My work starts in Figma and increasingly ends in code: I like taking an idea from the first sketch to an interface that actually runs.
+
+Right now I'm learning to build with Next.js and AI-assisted tools like Claude, and using them to close the gap between how a product is designed and how it's built.
+
+---
+
 ### ✦ What I do
 
 - **Product Design** — From early concepts to polished interfaces
